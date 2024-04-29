@@ -1,10 +1,10 @@
 {
   "version": "0.0.1",
   "notes": "测试发布",
-  "pub_date": "2024-04-29T11:46:12.615Z",
+  "pub_date": "2024-04-29T12:08:39.960Z",
   "platforms": {
     "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcnRTUmROMGdBZkJ4Q29KOHZ2YXYwTk5PRTdOaDB0a2cwcExXalZJY01saFJUV3F2ODBIU0dJalRJbUppbU1xNElFQkRtV3U2VjNTdkdiK296a2NQbUptVmN2dlZqUmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MzkxMTU5CWZpbGU6bGVhZ3VlYm9hcmRfMC4wLjFfeDY0LXNldHVwLm5zaXMuemlwCjBRRy9ZMytxOUlDamF1Vll2R3B2czkrKzltaHhyYjliSUczMTRnNEQ2di9DYmRFaytWK1BKZWVJeHJNckpjb1JUMjBNRjZGa2NGUUh5bUg1YTFsbUFBPT0K",
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVTcnRTUmROMGdBZks5M245NlFGTG8xaEJaNmN2YjJhQmIzZE1CL3FoaEJnbkQ3WEp1TitQc2dwZFNSbjNCNnVyZXpzT29rTEVhZFRGME1OWlJ6WWd1YndNeFUwTTNYbmc0PQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzE0MzkyNTE1CWZpbGU6bGVhZ3VlYm9hcmRfMC4wLjFfeDY0LXNldHVwLm5zaXMuemlwCjVvRHVGK1dBdHNFV1A0cGFwTWJlZ0U0K0pMeWVpTmVnUWhXSTFkN1g3dGEzSk1UeVFpT09NYTdxY0M2TUVuNGo2ZEJHb3RiZTQxVDVKd2doaUhQZURBPT0K",
       "url": "https://nogard11.github.io/LeagueBoard/assets/release/0.0.1/nsis/leagueboard_0.0.1_x64-setup.nsis.zip"
     }
   }
