@@ -1,1 +1,0 @@
-import{_ as o,o as c,c as t,p as s,a,b as _}from"./index-B6US3vfe.js";const d={},n=e=>(s("data-v-693909b1"),e=e(),a(),e),p=n(()=>_("h1",null,"Welcome to the Home page!",-1)),r=[p];function l(e,h){return c(),t("div",null,r)}const m=o(d,[["render",l],["__scopeId","data-v-693909b1"]]);export{m as default};
