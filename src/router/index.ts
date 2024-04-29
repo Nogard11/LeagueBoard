@@ -7,7 +7,7 @@ const routers = [
 ]
 
 const router = createRouter({
-    history: createWebHistory(),
+    history: createWebHistory('/LeagueBoard/'),
     routes: routers
 })
 export default router;
