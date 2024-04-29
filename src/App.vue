@@ -1,8 +1,6 @@
 <script setup lang="ts">
 import { darkTheme, zhCN, dateZhCN } from "naive-ui";
 
-
-
 </script>
 
 <template>
